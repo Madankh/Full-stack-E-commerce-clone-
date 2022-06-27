@@ -1,0 +1,28 @@
+.Container{
+    height : 30px;
+    background-color : rgb(41, 35, 35);
+    color : white;
+    display : flex;
+    align-items : center;
+    justify-content: center;
+    font-size : 14px;
+    font-weight : 500;
+}
+
+.Fashions{
+    margin-left: -10px;
+    cursor: pointer;
+}
+.Electronics{
+    margin-left: 20px;
+    cursor: pointer;
+
+}
+.Books{
+    margin-left: 20px;
+    cursor: pointer;
+}
+.Gaming{
+    margin-left: 20px;
+    cursor: pointer;
+}

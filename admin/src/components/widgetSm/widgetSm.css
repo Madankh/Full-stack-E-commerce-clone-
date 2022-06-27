@@ -1,0 +1,59 @@
+.widgetSm{
+    flex: 1;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.24); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.24);
+    padding: 20px;
+    margin-right: 20px;
+}
+
+.widgetSmListItem{
+    display: flex;
+    margin: 18px;
+}
+
+.widgetSmTitle{
+    font-size: 32px;
+    font-weight: 600;
+}
+
+img{
+    font:40px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.widgetSmUser{
+    margin-left: 18px;
+    margin-right: 5px;
+
+}
+.widgetSmButton{
+    display: flex;
+    margin-top: 7px;
+    
+}
+
+
+.widgetSmList{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.widgetSmJob{
+    color: rgb(175, 170, 170);
+    font-size: 14px;
+}
+.widgetSmButton{
+    display: flex;
+    align-items: center;
+    border: none;
+    margin-left: 18px;
+    border-radius: 10px;
+    padding: 7px 10px;
+}
+.widgetSmIcon{
+    font-size:16px;
+    margin-right: 5px;
+}
